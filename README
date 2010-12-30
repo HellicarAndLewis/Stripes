@@ -1,0 +1,49 @@
+Stripes
+
+An installation by Hellicar&Lewis for Uniqlo.
+http://hellicarandlewis.com
+
+In collaboration with Wood Mcgrath
+http://woodmcgrath.com/
+
+Compatible with of_preRelease_v0061_osxSL_FAT
+
+http://openframeworks.cc
+http://openframeworks.cc/download
+
+Thanks to the whole OpenFrameworks community.
+
+Uses:
+
+ofxContourAnalysis through the CYA People Vision Software
+CYA People Vision Software is a cross platform set of video sensing tools developed in Openframeworks for use in design, prototyping, and installed systems.
+A collaboration started by LAB at Rockwell Group (http://lab.rockwellgroup.com ) and the LABS at IDEO (http://labs.ideo.com).
+http://code.google.com/p/peoplevision/
+
+ofxControlPanel by Theo Watson
+http://theowatson.com
+https://github.com/ofTheo/ofxControlPanel
+
+ofxOpenCVExtensions by 
+LAB at Rockwell Group
+http://lab.rockwellgroup.com/
+CPUImageFilter by NUI Group
+http://nuigroup.com
+ofxCVBlobTracker by Stefan Hechenberger
+http://stefanix.net/
+ofxCvOpticalFlowLK by Takashi Maekawa
+http://generative.info/
+with GUI extensions to allow compatiblity with ofxControlPanel by Joel Gethin Lewis
+
+ofxFBOTexture originally by Zach Gage:
+http://www.openframeworks.cc/forum/viewtopic.php?t=371
+
+Rendermanager by Theo Watson:
+http://theowatson.com
+http://www.openframeworks.cc/forum/viewtopic.php?p=7291#p7291
+
+With contributions by Memo Atken and the rest of the OpenFrameworks community.
+
+AppSettings by Todd Vanderlin
+http://code.google.com/p/vanderlin/
+http://toddvanderlin.com
